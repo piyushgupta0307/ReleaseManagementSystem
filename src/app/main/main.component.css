@@ -1,0 +1,56 @@
+.border
+{
+    border:1px solid red !important;
+}
+
+
+#container
+{
+    font-family:"Verdana";
+    margin: 0 auto;
+    width: 50%; 
+}
+.col1
+{
+    float:left;
+	margin: 50px;
+    cursor: pointer;
+    width:100px;
+    height: 100px; 
+	border-radius: 50px;
+	border: 1px solid red;
+	background-color:red;
+}
+
+a {
+text-decoration:none;
+color:white;
+}
+
+.ptext{
+margin-top:35px;
+font-size:12px;
+text-align: center;
+}
+
+.row {
+    float: left;
+    width: 100%;
+    box-sizing: border-box;
+    padding: 0px;
+    margin: 0px;
+}
+.col {
+    float: right;
+    width: 100%;
+    box-sizing: border-box;
+    padding: 0px;
+    margin: 0px;
+}
+
+#header
+{
+    padding: 12px 15px;
+    color:rgba(12, 0, 0, 0.65);
+    text-align: center;
+}
